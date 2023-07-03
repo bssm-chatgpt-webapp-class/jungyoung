@@ -8,3 +8,7 @@
 
   background-size: cover;
 }
+
+.chat {
+  white-space: pre-wrap;
+}
