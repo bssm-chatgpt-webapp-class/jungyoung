@@ -1,11 +1,13 @@
 import * as C from "./components/index";
-import "./reset.css"
+import "./reset.css";
 
 function App() {
   return (
-    <div>
-      <C.Header></C.Header>
-    </div>
+    <>
+      <C.Header />
+      <C.Main />
+      <C.Textfield />
+    </>
   );
 }
 

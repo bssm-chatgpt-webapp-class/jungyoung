@@ -1,0 +1,22 @@
+.textfield {
+  display: flex;
+  align-items: center;
+}
+
+.textinput {
+  height: 32px;
+  width: 216px;
+  padding: 2px;
+}
+
+.sendbutton {
+  position: absolute;
+  right: 2px;
+  background: url("https://cdn-icons-png.flaticon.com/512/6492/6492707.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 32px;
+  height: 32px;
+  border: none;
+  outline: none;
+}
